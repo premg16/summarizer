@@ -71,7 +71,7 @@ const Summarize = () => {
             </div>
           </div>
           <div className="w-3/5 bg-purple-100 flex">
-          <span className="w-full text-center m-auto font-bold text-xl">Summary</span>
+          <span className="w-full text-center m-auto font-bold text-xl">Summary/ChatWindow</span>
           </div>
         </div>
       )}
